@@ -1,3 +1,11 @@
 matplotlib==2.2.2
 numpy==1.14.5
 pandas==0.23.3
+
+nbviewer網址
+http://nbviewer.jupyter.org/github/Garnet112/X-Village-HW1/blob/master/Obesity%20and%20Exercise.ipynb
+
+這是一個關於過重人口的專案
+顯示出在2008年~2013年間男女過重人口所占百分比逐年上升
+並且在最後附上各項運動能夠消耗的熱量
+希望能對他們有所幫助
